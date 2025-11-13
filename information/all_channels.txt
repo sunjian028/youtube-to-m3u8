@@ -1,0 +1,230 @@
+~~ DO NOT EDIT THE FIRST 2 LINES	
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+
+8world SG | News | https://logo2.png | 8world-sg
+https://www.youtube.com/channel/UCUqUtr0w-K8W4AfpbHiYSaQ/live
+------------
+Channel 2 | News | https://logo2.png | channel2
+https://www.youtube.com/channel/XXX/live
+------------
+Asia Satellite Television | News | https://logo2.png | Asia Satellite Television
+https://www.youtube.com/channel/UC9QuWxjUJhTy_tDX16KtIvg/live
+------------
+Believe in Future TV | News | https://logo2.png | Believe in Future TV
+https://www.youtube.com/channel/UCz-Lz09-7pV_OfNpOuKdZxg/live
+------------
+CCTV4 | News | https://logo2.png | CCTV4
+https://www.youtube.com/channel/UC4K_LI-Tn3-LshNgG0-YypQ/live
+------------
+CCTV Documentary | News | https://logo2.png | CCTV Documentary
+https://www.youtube.com/channel/UCAYkj2Fz9EvAe2fGJEGMXnQ/live
+------------
+CCTV Drama | News | https://logo2.png | CCTV Drama
+https://www.youtube.com/channel/UC7Vl0YiY0rDlovqcCFN4yTA/live
+------------
+CCTV Hit Drama | News | https://logo2.png | CCTV Hit Drama
+https://www.youtube.com/channel/UCK73Yh0cVnfyDf9Y63YeBPQ/live
+------------
+China Zone Documentary | News | https://logo2.png | China Zone Documentary
+https://www.youtube.com/channel/UCP-YnWUlKX0mGHnF6IFF4TQ/live
+------------
+China Zone Drama | News | https://logo2.png | China Zone Drama
+https://www.youtube.com/channel/UC0jYsshDZfOBZC9nIJn94Cg/live
+------------
+China Zone Dream Drama | News | https://logo2.png | China Zone Dream Drama
+https://www.youtube.com/channel/UCCj2i1JBvMYG_Kp5TtRe7cg/live
+------------
+CTi News | News | https://logo2.png |CTi News
+https://www.youtube.com/watch?v=oIgbl7t0S_w
+------------
+CTi Plus | | | |
+https://www.youtube.com/watch?v=WPfPjbOLNfE
+------------
+CTS Drama | | | |
+https://www.youtube.com/channel/UCwaaEghUjz2Xb23yxm85rCw/live
+------------
+CTS News | | | |
+https://www.youtube.com/channel/UCDCJyLpbfgeVE9iZiEam-Kg/live
+------------
+CTS Show | | | |
+https://www.youtube.com/channel/UCdpxNQgqL3276yjrK03gMXA/live
+------------
+CTV Classic | | | |
+https://www.youtube.com/channel/UCcpJdrLttBz5bDBormbgwiw/live
+------------
+CTV Classic Drama | | | |
+https://www.youtube.com/channel/UCnDaL2EvcjzQkeSOYUJ-_Pg/live
+------------
+CTV News | | | |
+https://www.youtube.com/watch?v=TCnaIE_SAtM
+------------
+Da Ai Television | | | |
+https://www.youtube.com/watch?v=MIqUplvSRWA
+------------
+Da Ai Television 2 | | | |
+https://www.youtube.com/watch?v=DTNkEm6jaqQ
+------------
+Daylight Entertainment Drama | | | |
+https://www.youtube.com/channel/UCJq6qOdcSF3ZBUeFebC7KFQ/live
+------------
+EBC Financial News | | | |
+https://www.youtube.com/watch?v=WHEPzbFA3hw
+------------
+EBC News | | | |
+https://www.youtube.com/watch?v=V1p33hqPrUk
+------------
+ETMall CH34 | | | |
+https://www.youtube.com/watch?v=_Vlzn9qAHD4
+------------
+ETMall CH46 | | | |
+https://www.youtube.com/watch?v=Z50JFuNgvB0
+------------
+ETMall CH47 | | | |
+https://www.youtube.com/watch?v=ViJ3XiN6Q3M
+------------
+ETMall CH60 | | | |
+https://www.youtube.com/watch?v=u0NYyH3ZesE
+------------
+FTV Drama | | | |
+https://www.youtube.com/channel/UCiMiEL1XRXANaypB2wEdr5w/live
+------------
+FTV News | | | |
+https://www.youtube.com/watch?v=ylYJSBUgaMA
+------------
+Global Financial News | | | |
+https://www.youtube.com/channel/UCSZwcE1d1SAGyc1yvQGSOjQ/live
+------------
+Global News | | | |
+https://www.youtube.com/watch?v=6IquAgfvYmc
+------------
+Global News Taiwan | | | |
+https://www.youtube.com/watch?v=w87VGpgd90U
+------------
+GTV Drama | | | |
+https://www.youtube.com/channel/UCZ2EoLNz4EzAnAIKCGhiRzQ/live
+------------
+Hairun Media | | | |
+https://www.youtube.com/channel/UCzdtW5uUhHRhp9z9Lgy9E2A/live
+------------
+HOP Sports | | | |
+https://www.youtube.com/channel/UCEenIlCU009lS0TZ8EKuKMw/live
+------------
+Hunger Games | | | |
+https://www.youtube.com/channel/UCriy3vlLtiBov3nLdPLadUg/live
+------------
+iQIYI | | | |
+https://www.youtube.com/channel/UCUhpu5MJQ_bjPkXO00jyxsw/live
+------------
+iQIYI Action Movie | | | |
+https://www.youtube.com/channel/UCwy7vUQNbyuj8E3_A7VQiEw/live
+------------
+iQIYI Anime | | | |
+https://www.youtube.com/channel/UCQe8YEJaNoqWQCiw0p6XjXg/live
+------------
+iQIYI C Drama | | | |
+https://www.youtube.com/channel/UCvNzI_xPIHhB3Vfstj4PMWw/live
+------------
+iQIYI Comedy Theater | | | |
+https://www.youtube.com/channel/UCcvtgTASNRIcZuFIL2Khb9g/live
+------------
+iQIYI Kung Fu Movie | | | |
+https://www.youtube.com/channel/UCIpWMKZ023G4-N5Y3DQhg0Q/live
+------------
+iQIYI Midnight Theater | | | |
+https://www.youtube.com/channel/UCiaavvgWNmVxwqoOgaXlQKw/live
+------------
+iQIYI Movie English | | | |
+https://www.youtube.com/channel/UCZrZaZM9IfX-uB-9yWf5gfQ/live
+------------
+iQIYI Movie Theater | | | |
+https://www.youtube.com/channel/UCZ8ZJNzzIiDQFuGxdGTyWcQ/live
+------------
+iQIYI Romance | | | |
+https://www.youtube.com/channel/UC_zcneV4GM5U7A_Zg5OdnKA/live
+------------
+iQIYI Variety | | | |
+https://www.youtube.com/channel/UCQ6ptCagG3W0Bf4lexvnBEg/live
+------------
+LeTV Drama | | | |
+https://www.youtube.com/channel/UCUuZe7OB0yHSYAfu8annGKQ/live
+------------
+Made In Taiwan | | | |
+https://www.youtube.com/channel/UCKRjODp1ZYOSYNH5IA32g3Q/live
+------------
+Mango TV | | | |
+https://www.youtube.com/channel/UC1pHFqCMAIHP8gr4lYGtNLA/live
+------------
+Mediacorp Drama | | | |
+https://www.youtube.com/channel/UCnUQ8urh9t0vlHluTJdVLTg/live
+------------
+Mediacorp Entertainment | | | |
+https://www.youtube.com/channel/UCQrvzGHFkNkVBlqqe46kuYQ/live
+------------
+mnews | | | |
+https://www.youtube.com/watch?v=5n0y6b0Q25o
+------------
+momo CH35 | | | |
+https://www.youtube.com/watch?v=xbNWkUyxQGM
+------------
+momo CH48 | | | |
+https://www.youtube.com/watch?v=_pZQ1Lk0xMA
+------------
+NTDAPTV | | | |
+https://www.youtube.com/watch?v=WIhgU_mc05A
+------------
+Phoenix InfoNews | | | |
+https://www.youtube.com/channel/UCd9dPMYgV9-IQaZG491TaRw/live
+------------
+PTS News | | | |
+https://www.youtube.com/watch?v=quwqlazU-c8
+------------
+San Da Cable TV | | | |
+https://www.youtube.com/channel/UCHycXkewR3NXQE59t3hhlaQ/live
+------------
+Seeing Shanghai | | | |
+https://www.youtube.com/channel/UCR3JG231i5rbq8NnM9Gp02Q/live
+------------
+SET Drama | | | |
+https://www.youtube.com/channel/UC0Bp71S54Jsw9XsapPoUVFQ/live
+------------
+SET iNews | | | |
+https://www.youtube.com/watch?v=pF507BLtbqU
+------------
+SET Live News | | | |
+https://www.youtube.com/watch?v=FoBfXvlOR6I
+------------
+SET News | | | |
+https://www.youtube.com/channel/UCIU8ha-NHmLjtUwU7dFiXUA/live
+------------
+SET News Plus | | | |
+https://www.youtube.com/watch?v=oZdzzvxTfUY
+------------
+Shanghai TV | | | |
+https://www.youtube.com/channel/UCahKjkez9olNwcpc5pZwzvg/live
+------------
+TaiwanPlus Live | | | |
+https://www.youtube.com/channel/UC7c6rvyAZLpKGk8ttVnpnLA/live
+------------
+TTV Classic | | | |
+https://www.youtube.com/channel/UCsxBbjyp60aPApMEz42V0aA/live
+------------
+TTV News | | | |
+https://www.youtube.com/watch?v=xL0ch83RAK8
+------------
+TVBS | | | |
+https://www.youtube.com/watch?v=o_-hSMgpAzs
+------------
+TVBS News | | | |
+https://www.youtube.com/watch?v=2mCSYvcfhtc
+------------
+TVBS News Live | | | |
+https://www.youtube.com/watch?v=m_dhMSvUCIc
+------------
+ViVa TV 1 | | | |
+https://www.youtube.com/watch?v=7IyxOiGMLgw
+------------
+ViVa TV 2 | | | |
+https://www.youtube.com/watch?v=lEXITHxcagI
+------------
+Zhu Ge Club | | | |
+https://www.youtube.com/channel/UCAdqIKWKOCzugzxdqPAh0zA/live
